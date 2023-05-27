@@ -1,2 +1,4 @@
 256_ObjectCategories/
+Data/
 **/*.ipynb_checkpoints/
+*.Identifier
